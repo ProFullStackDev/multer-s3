@@ -378,7 +378,7 @@ S3Storage.prototype.transformUpload = function (opts, req, file, cb) {
 
           var upload = storage.s3.upload({
             Bucket: opts.bucket,
-            Key: key,
+            Key: opts.key,
             ACL: opts.acl,
             CacheControl: opts.cacheControl,
             ContentType: opts.contentType,
