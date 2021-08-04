@@ -219,7 +219,7 @@ function S3Storage(opts) {
         transform.key = staticValue(transform.key);
         break;
       case "undefined":
-        transform.key = defaultKey();
+        transform.key = defaultKey;
         break;
       default:
         throw new TypeError(
