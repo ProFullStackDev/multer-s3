@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tehkaiyu/multer-s3.git"
+    "url": "git+https://github.com/ProFullStackDev/multer-s3.git"
   },
   "keywords": [
     "multer",
@@ -19,9 +19,9 @@
   "author": "badunk",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/badunk/multer-s3/issues"
+    "url": "https://github.com/ProFullStackDev/multer-s3/issues"
   },
-  "homepage": "https://github.com/tehkaiyu/multer-s3#readme",
+  "homepage": "https://github.com/ProFullStackDev/multer-s3#readme",
   "dependencies": {
     "file-type": "^3.3.0",
     "is-svg": "^2.1.0",
