@@ -1,5 +1,5 @@
 {
-  "name": "ProFullStackDev/multer-s3-transform",
+  "name": "multer-s3-transform",
   "version": "2.11.0",
   "description": "Streaming multer storage engine for AWS S3",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "https://github.com/ProFullStackDev/multer-s3.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/ProFullStackDev"
+    "registry": "https://npm.pkg.github.com/findcoder"
   },
   "keywords": [
     "multer",
@@ -19,7 +19,7 @@
     "amazon",
     "aws"
   ],
-  "author": "ProFullStackDev",
+  "author": "suryarajput",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ProFullStackDev/multer-s3/issues"
